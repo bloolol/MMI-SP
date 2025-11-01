@@ -1,0 +1,15 @@
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\MMI-SP.dll
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\MMI-SP.pdb
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\iFruitAddon2.dll
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\NativeUI.dll
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\SHVDN-Extender.dll
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\iFruitAddon2.pdb
+C:\Users\clope\source\repos\MMI-SP\bin\Debug\NativeUI.xml
+C:\Users\clope\source\repos\MMI-SP\obj\Debug\MMI-SP.csproj.AssemblyReference.cache
+C:\Users\clope\source\repos\MMI-SP\obj\Debug\MMI_SP.Properties.Resources.resources
+C:\Users\clope\source\repos\MMI-SP\obj\Debug\MMI-SP.csproj.GenerateResource.cache
+C:\Users\clope\source\repos\MMI-SP\obj\Debug\MMI-SP.csproj.CoreCompileInputs.cache
+C:\Users\clope\source\repos\MMI-SP\obj\Debug\MMI-SP.csproj.Up2Date
+C:\Users\clope\source\repos\MMI-SP\obj\Debug\MMI-SP.dll
+C:\Users\clope\source\repos\MMI-SP\obj\Debug\MMI-SP.pdb
