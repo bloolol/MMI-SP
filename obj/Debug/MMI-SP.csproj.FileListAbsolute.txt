@@ -1,2 +1,0 @@
-C:\Users\Chris-No Internet\source\repos\GTAV_CorrectProjectType\MMI-SP\obj\Debug\MMI-SP.csproj.AssemblyReference.cache
-C:\Users\Chris-No Internet\source\repos\GTAV_CorrectProjectType\MMI-SP\obj\Debug\MMI-SP.csproj.CoreCompileInputs.cache
