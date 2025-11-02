@@ -296,7 +296,7 @@ namespace MMI_SP
         /// <summary>
         /// Check the recovered vehicles and remove persistence/blips when needed.
         /// </summary>
-        private void UpdateRecoveredVehicles()
+        public void UpdateRecoveredVehicles()
         {
             for (int i = RecoveredVehList.Count - 1; i >= 0; i--)
             {

@@ -2,6 +2,8 @@
 using iFruitAddon2;
 
 using GTA;
+using NativeUI;
+
 
 namespace MMI_SP.iFruit
 {
@@ -84,8 +86,13 @@ namespace MMI_SP.iFruit
 
         internal void MenuClosed(object sender)
         {
-            MMISound.Play(MMISound.SoundFamily.Bye);
-            _menuiFruit.Mainmenu.OnMenuClose -= MenuClosed;
+            
+               
+            
+                _menuiFruit.Mainmenu.OnMenuClose -= MenuClosed;
+           // if (!_menuiFruit._menuPool.IsAnyMenuOpen())
+                MMISound.Play(MMISound.SoundFamily.Bye);
+
         }
 
 
